@@ -3,7 +3,7 @@
 Answer a brief survey and match with a new friend based on common interests.
 
 ## Deployed WebApp
-
+https://guarded-cliffs-30799.herokuapp.com/
 
 ## Technologies used
 - Node.js
@@ -14,7 +14,7 @@ Answer a brief survey and match with a new friend based on common interests.
 ### Prerequisites
 
 ```
-- Node.js - Download the latest version of Node https://nodejs.org/en/
+- Node.js
 
 ```
 
